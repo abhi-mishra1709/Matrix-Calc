@@ -1,4 +1,4 @@
-# Matrix-Calc
-This is a Matrix Calculator and my first repository.
+# First Repo
+This is my first repository.
 <br>
-Author - Abhishek Mishra
+Name - Abhishek Mishra
